@@ -1,4 +1,4 @@
-# wangyiyun-app
+# lzw's player -app
 
 ## Project setup
 ```
